@@ -9,8 +9,7 @@
 <div style="display: inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Edianio" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/2e/81/3d/2e813dda8f4d47fb44d8035dec275f03.jpg">
 </div>
   
 ##
@@ -32,3 +31,5 @@
   <a href = "mailto:edianioferreira2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/edianioferreira" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/edianio/edianio/blob/output/github-contribution-grid-snake.svg)
