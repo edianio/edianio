@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/edianio"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edianio&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edianio&layout_compact=true&langs_count=16&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edianio&layout_compact=true&langs_count=5&theme=dark" />
 </div>
 
 <div style="display: inline_block"><br/>
