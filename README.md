@@ -4,7 +4,7 @@
   Fan of: Star Wars, Zelda, Knights of the Zodiac, RPG (Video games and boards)...
 </div><br/>
 
-## :bar_chart: States
+## :bar_chart: GitHub States
 <div>
   <a href="https://github.com/edianio"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edianio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
