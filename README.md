@@ -1,6 +1,8 @@
 ## :vulcan_salute: About me:
-Hi! I'm Edianio Ferreira, mobile app developer with Dart/Flutter!\n
-Fan of: Star Wars, Zelda, Knights of the Zodiac, RPG (Video games and boards)...
+<div>
+  Hi! I'm Edianio Ferreira, mobile app developer with Dart/Flutter!<br/>
+  Fan of: Star Wars, Zelda, Knights of the Zodiac, RPG (Video games and boards)...
+</div>
 
 <div>
   <a href="https://github.com/edianio"/>
