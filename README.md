@@ -1,6 +1,6 @@
 ## :vulcan_salute: About me:
-Hi! I'm Edianio Ferreira, mobile app developer with Dart/Flutter!
-Fan of: Star Wars, Zelda, Knights of the Zodiac, RPG (Video games and boards).
+Hi! I'm Edianio Ferreira, mobile app developer with Dart/Flutter!\n
+Fan of: Star Wars, Zelda, Knights of the Zodiac, RPG (Video games and boards)...
 
 <div>
   <a href="https://github.com/edianio"/>
@@ -15,7 +15,7 @@ Fan of: Star Wars, Zelda, Knights of the Zodiac, RPG (Video games and boards).
   <img align="right" alt="Edianio" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/2e/81/3d/2e813dda8f4d47fb44d8035dec275f03.jpg">
 </div>
   
-## :mailbox_with_mail: 
+## :mailbox_with_mail: Contacts
 <div>
   <a href = "mailto:edianioferreira2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/edianioferreira" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,7 +24,7 @@ Fan of: Star Wars, Zelda, Knights of the Zodiac, RPG (Video games and boards).
   <a href="https://play.google.com/store/apps/dev?id=7273336520584890891" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
 </div>
 
-##
+## :joystick: Let's Play
 
 <div>
   <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" target="_blank">
