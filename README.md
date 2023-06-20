@@ -21,7 +21,6 @@
 <div style="display: inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="right" alt="Edianio" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/2e/81/3d/2e813dda8f4d47fb44d8035dec275f03.jpg">
 </div><br/>
 
 ## :mailbox_with_mail: Contacts
@@ -38,6 +37,7 @@
   <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" target="_blank">
   <a href="SW-2681-2829-7201" alt="SW-2681-2829-7201"><img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" target="_blank">
   <a href="https://steamcommunity.com/id/edianioferreira" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <img align="right" alt="Edianio" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/2e/81/3d/2e813dda8f4d47fb44d8035dec275f03.jpg">
 </div><br/>
 
 ### :stuck_out_tongue_winking_eye: Random Dev Quote
