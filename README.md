@@ -1,10 +1,10 @@
 ## :vulcan_salute: About me:
 <div>
-  Hi! I'm Edianio Ferreira, mobile app developer with <b>Dart/Flutter</b>!:fire:<br/>
+  Hi! I'm <b>Edianio Ferreira</b>, mobile app developer with <b>Dart/Flutter</b>!:fire:<br/>
   Fan of: Star Wars, Zelda, Knights of the Zodiac, The Witcher, RPG (Video games and boards)...
 </div><br/>
 
-## :bar_chart: GitHub States
+## :bar_chart: GitHub Status
 <div>
   <a href="https://github.com/edianio"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edianio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
